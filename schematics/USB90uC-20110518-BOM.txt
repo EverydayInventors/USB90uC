@@ -1,0 +1,28 @@
+Partlist
+
+Exported from USB90uC-20110518.brd at 5/18/11 10:48 PM
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part     Value           Package      
+C1       15pF            C025-024X044 
+C2       15pF            C025-024X044 
+C3       1uF             C050-025X075 
+C4       .1uF            C050-025X075 
+C5       .1uF            C050-025X075 
+C6       4.7uF           E5-4         
+D1       RED             LED3MM       
+D2       GRN             LED3MM       
+JP1                      1X12-S       
+JP2                      1X12-S       
+R1       22              0207/10      
+R2       22              0207/10      
+R3       47k             0207/10      
+R4       47k             0207/10      
+R5       1.5k            0207/10      
+R6       1.5k            0207/10      
+S1       BOOT            B3F-10XX     
+S2       RESET           B3F-10XX     
+U1       AT90USB162-16AU VQFP32       
+USB1     USBPTH          USB-B-PTH    
+XTAL     16MHz           QS           
